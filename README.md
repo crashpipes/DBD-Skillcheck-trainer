@@ -4,7 +4,7 @@
 A tiny web app to practice **Dead by Daylight** skill checks — built to drill the hard
 **Great** (white) skill checks on generators and heals.
 
-🎮 **Live demo:** `https://<your-username>.github.io/dbd-skillcheck/`
+🎮 **Live demo:** `https://crashpipes.github.io/dbd-skillcheck/`
 
 ## Features
 
